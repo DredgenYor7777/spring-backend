@@ -15,7 +15,6 @@
     <description>API REST Biblionet</description>
     <properties>
         <java.version>17</java.version>
-        <start-class>com.biblionet.biblionet.BiblionetApplication</start-class>
     </properties>
     <dependencies>
         <dependency>
